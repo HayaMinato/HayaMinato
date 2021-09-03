@@ -1,8 +1,8 @@
-## Hi there, I'm Sanchit 👋
+## Hi there, I'm {Name here} 👋
 
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://sanchitbajaj02.github.io/portfolio/)](https://sanchitbajaj02.github.io/portfolio/)
-![Visitor Count](https://komarev.com/ghpvc/?username=sanchitbajaj02&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/sanchitbajaj02-black?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/sanchitbajaj02/)
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://luckyarthas0823.wixsite.com/cutemember)](https://luckyarthas0823.wixsite.com/cutemember)
+![Visitor Count](https://komarev.com/ghpvc/?username={namehere}&color=blue&logo=flat)
+[![Linkedin](https://img.shields.io/badge/{NameHere}-{Colorhere}?style=flat&logo=Linkedin&logoColor=blue&link=https:https://www.linkedin.com/in/sanchitbajaj02/)](https://www.linkedin.com/in/sanchitbajaj02/)
 [![Instagram](https://img.shields.io/badge/sbajaj_02-black?style=flat&logo=Instagram&logoColor=pink&target=_blank&link=https://www.instagram.com/sbajaj_02/)](https://www.instagram.com/sbajaj_02/)
 
 <br>
